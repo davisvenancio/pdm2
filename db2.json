@@ -1,0 +1,31 @@
+{
+  "alunos": [
+    {
+      "nome": "Ana",
+      "ano_nascimento": 1984,
+      "notas": {
+        "n1": 7,
+        "n2": 5,
+        "n3": 4
+      }
+    },
+    {
+      "nome": "David",
+      "ano_nascimento": 2000,
+      "notas": {
+        "n1": 10,
+        "n2": 10,
+        "n3": 10
+      }
+    },
+    {
+      "nome": "Carlos",
+      "ano_nascimento": 1999,
+      "notas": {
+        "n1": 3,
+        "n2": 10,
+        "n3": 4
+      }
+    }
+  ]
+}
